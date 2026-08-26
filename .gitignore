@@ -1,0 +1,8 @@
+echo ".venv/
+__pycache__/
+*.pyc
+quora_sample_50k.csv
+cleaned_text.csv
+preprocessed_data.npz
+word2vec.model
+siamese_gru.h5" > .gitignore

@@ -130,7 +130,7 @@ streamlit run app.py
 
 ## Author
 
-**Vamsi Krishna** — Data Science Trainee, Innomatics Research Labs
+**Vamsi Krishna**
 
 # Quora-duplicate-detection
 858460d8cb67d674977ad917d8a079877c84d976

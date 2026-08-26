@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Semantic Similarity Engine — Duplicate Question Detection
 
 A comparative NLP project that benchmarks five different text-representation approaches — from classical Bag-of-Words to fine-tuned Transformers — on the task of detecting whether two differently-worded questions mean the same thing.
@@ -130,3 +131,6 @@ streamlit run app.py
 ## Author
 
 **Vamsi Krishna** — Data Science Trainee, Innomatics Research Labs
+
+# Quora-duplicate-detection
+858460d8cb67d674977ad917d8a079877c84d976
